@@ -27,6 +27,7 @@ Para la elaboración de este mando se utilizó nuevamente un ESP32 junto con alg
 | switch                                        | 1      |
 | switch (on-off-on) mts2                       | 1      |
 
-## Conexiones
+# Conexiones
 Para las realizar las conexiones, solo debe guiarse de la imagen anterior, recordar que el ESP32 trabaja con 3.3v; suministrarle voltajes superiores podría arruinar el microcontrolador.
 En caso de quedar dudas con las conexiones, a continuación se muestra una tabla de referencia.
+
