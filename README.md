@@ -16,7 +16,8 @@ Para lograr que el dron se mantenga estable en el aire se hará uso de un mpu605
 
 _______________________________________________________________
 
-# Control Remoto
+# Elementos del Proyecto
+## Control Remoto
 <img src="https://github.com/Bharuck/Drone_ESP32/blob/main/src/images/mando_ref1.jpg?raw=true" alt="img" align="right" height="150px">
 <img src="https://github.com/Bharuck/Drone_ESP32/blob/main/src/images/mando_ref.jpg?raw=true" alt="img" align="right" height="150px">
 
@@ -35,3 +36,8 @@ Principalmente, se tomó como referencia la distribución física de los botones
 | potenciómetro                                 | 1      |
 | switch                                        | 1      |
 | switch (on-off-on) mts2                       | 1      |
+
+___
+
+# Cuadricóptero
+En esta ocasión se hará uso de un chasis F450 (Esto hace referencia a la distancia en diagonal entre los motores que sería de 450mm) 
