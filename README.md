@@ -40,4 +40,17 @@ Principalmente, se tomó como referencia la distribución física de los botones
 ___
 
 # Cuadricóptero
-En esta ocasión se hará uso de un chasis F450 (Esto hace referencia a la distancia en diagonal entre los motores que sería de 450mm) 
+<img src="https://github.com/Bharuck/Drone_ESP32/blob/c4ca8926388c956a5f65a0f0814147e8b23c0a21/src/images/FrameF450.jpg?raw=true" alt="img" align="right" height="150px">
+En esta ocasión se hará uso de un chasis F450 (Esto hace referencia a la distancia en diagonal entre los motores, que sería de 450mm) se eligió este diseño ya que era el más accesible; y con respecto a ser un cuadricóptero, esto permitirá tener una buena estabilidad.
+
+## Materiales
+| Material                                      | Número |
+|-----------------------------------------------|--------|
+| Nodemcu-32 ESP32 Wifi                         | 1      |
+| DC-DC voltage converter STEP-DOWN 2A MP1584EN | 1      |
+| MPU 6050                                      | 1      |
+| Electronic Speed Controller                   | 4      |
+| Motores Brushles                              | 4      |
+| Batería Lipo 2200mAh                          | 1      |
+| Hélices en sentido horario                    | 2      |
+| Hélices en sentido antihorario                | 2      |
