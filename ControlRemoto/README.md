@@ -7,6 +7,7 @@ Para este proyecto haremos uso de la tecnología *ESP-NOW* que nos permite comun
 ### *Obtención de la dirección*
 
 
+
 ### *Acerca del Programa*
 ### *Cargar el Programa*
 Para cargar el programa solo debe abrir la carpeta adjunta desde su arduino.ide y subir el programa seleccionando la placa de ESP32 que disponga, por ejemplo en esta ocasión es el *DOIT ESP32 DEVKIT V1*.
