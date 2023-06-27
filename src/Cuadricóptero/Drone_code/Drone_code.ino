@@ -62,7 +62,7 @@ void setup() {
   analogWriteFrequency(4, 250);
   analogWriteResolution(12);
   
-  ReceiverInput.begin(14);
+  ReceiverInput.begin(14); //verificacion de emergencia
   while (ReceiverValue[2] < 1020 || ReceiverValue[2] > 1050) {
     read_receiver();
     delay(4);
